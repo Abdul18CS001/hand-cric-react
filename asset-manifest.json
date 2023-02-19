@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hand-cric-react/static/css/main.c9a4d2f7.css",
+    "main.js": "/hand-cric-react/static/js/main.d61192cf.js",
+    "static/js/787.1b27efca.chunk.js": "/hand-cric-react/static/js/787.1b27efca.chunk.js",
+    "index.html": "/hand-cric-react/index.html",
+    "main.c9a4d2f7.css.map": "/hand-cric-react/static/css/main.c9a4d2f7.css.map",
+    "main.d61192cf.js.map": "/hand-cric-react/static/js/main.d61192cf.js.map",
+    "787.1b27efca.chunk.js.map": "/hand-cric-react/static/js/787.1b27efca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a4d2f7.css",
+    "static/js/main.d61192cf.js"
+  ]
+}
